@@ -18,7 +18,7 @@
 
 # POST (save url)
 
-"hhtp://host:8082/urt"
+"hhtp://host:8082/url"
 
 Body: (alias необезательный пармаетр)
 ```json
