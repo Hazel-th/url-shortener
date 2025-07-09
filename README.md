@@ -1,4 +1,4 @@
-# URL Shortener
+# URL Shortener (REST API)
 
 Простой и удобный сервис для сокращения URL, написанный на Go с REST API.  
 Использует фреймворк [Chi](https://github.com/go-chi/chi), SQLite для хранения данных и поддерживает логирование в разных средах (local/dev/prod).
